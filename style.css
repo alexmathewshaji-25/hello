@@ -1,0 +1,22 @@
+#image {
+	text-align: center;
+}
+#para {
+	background-color: darkcyan;
+	margin-left: 240px;
+	margin-right: 230px;
+	text-align: justify;
+}
+#para2 {
+	background-color: lightcyan;
+	text-align: justify;
+	font-size: 20px;
+	margin-right: 230px;
+    margin-left: 240px;
+}
+h2 {
+	background-color: cyan;
+	text-align: justify;
+	margin-right: 230px;
+	margin-left: 240px;
+}
